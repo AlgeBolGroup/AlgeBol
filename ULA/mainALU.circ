@@ -633,6 +633,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     </comp>
     <comp lib="0" loc="(220,270)" name="Pin">
       <a name="tristate" val="false"/>
+      <a name="label" val="Mais significativo"/>
     </comp>
     <comp lib="0" loc="(730,850)" name="Tunnel">
       <a name="facing" val="south"/>
@@ -828,6 +829,8 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="facing" val="west"/>
       <a name="output" val="true"/>
       <a name="tristate" val="false"/>
+      <a name="label" val="Mais significativo"/>
+      <a name="labelloc" val="east"/>
     </comp>
     <comp lib="0" loc="(350,860)" name="Splitter">
       <a name="facing" val="south"/>
@@ -890,6 +893,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     </comp>
     <comp lib="0" loc="(220,90)" name="Pin">
       <a name="tristate" val="false"/>
+      <a name="label" val="Mais significativo"/>
     </comp>
     <comp lib="0" loc="(890,280)" name="Tunnel">
       <a name="facing" val="north"/>
